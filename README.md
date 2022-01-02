@@ -1,2 +1,2 @@
 # Computer-Engineering-Fundamentals
-Boston University EC605
+This is an introductory course to computer engineering, focusing on the hardware/software interface, and presenting a bottom-up view of a computer system. Topics include logic design: binary arithmetic, combinational and sequential logic. Computer organization: assembly language programming, CPU design, and memory systems. Introduction to compilers, operating systems, and computer networks. 
