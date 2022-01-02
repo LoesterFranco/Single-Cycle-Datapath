@@ -3,7 +3,7 @@
 This is an introductory course to computer engineering, focusing on the hardware/software interface, and presenting a bottom-up view of a computer system. Topics include logic design: binary arithmetic, combinational and sequential logic. Computer organization: assembly language programming, CPU design, and memory systems. Introduction to compilers, operating systems, and computer networks. 
 ## Context 
 1. [ALU](#1-ALU)
-2. [LED Counter]()
+2. [LED Counter](#2-led-counter)
 3. [Assembly]()
 4. [Data Path]()
 ## 1. ALU
