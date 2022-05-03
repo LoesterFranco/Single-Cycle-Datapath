@@ -1,4 +1,4 @@
-# Designing Components of a CPU Datapath using Verilog
+# Designing a simple CPU Datapath using Verilog
 ## Context 
 1. [ALU](#1-ALU)
 2. [LED Counter](#2-led-counter)
